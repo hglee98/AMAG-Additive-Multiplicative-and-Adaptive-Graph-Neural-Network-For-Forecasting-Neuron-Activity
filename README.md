@@ -6,7 +6,7 @@
 
 
 # About the Project 
-This is an implementation of the AMAG in pytorch and torch_geometric, from scatch by following the original paper. 
+This is an implementation of the AMAG in pytorch and torch_geometric, from scatch by following [the original paper](https://openreview.net/forum?id=7ntI4kcoqG). 
 
 # Getting Started 
 ## Installation 
